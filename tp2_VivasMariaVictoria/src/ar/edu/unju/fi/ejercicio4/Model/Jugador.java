@@ -19,6 +19,8 @@ public class Jugador {
         this.peso = peso;
         this.posicion = posicion;
     }
+    
+    
 
     public int calcularEdad() {
         LocalDate ahora = LocalDate.now();
