@@ -19,4 +19,6 @@ public class PagoEfectivo implements Pago {
         System.out.println("Fecha de pago: " + fechaPago);
         System.out.println("Monto pagado: " + montoPagado);
     }
+    
+    
 }
